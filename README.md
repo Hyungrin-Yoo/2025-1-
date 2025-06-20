@@ -60,11 +60,11 @@ import plotly.graph_objects as go
 
 *Fig.1 Total view of Solar system*
 
-![태양계_1차시도](Images/trial1/Trial1_topview.png)
+
 
 *Fig.2 Top view of Solar system*
 
-![태양계_1차시도](Images/trial1/Trial1_sideview.png)
+
 
 *Fig.3 Side view of Solar system*
 
