@@ -42,7 +42,9 @@
 
 > ⚠️ `plotly`는 웹 기반 시각화 라이브러리로, 결과는 주피터 노트북 또는 웹 브라우저에서 확인할 수 있습니다.
 
-사용한 함수는 다음과 같습니다
----
+
 ```python
+import numpy as np
+import plotly.graph_objects as go
+```
 
