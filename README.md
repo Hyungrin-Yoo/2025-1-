@@ -139,3 +139,15 @@ from datetime import datetime
 이 5개 위성의 궤도를 시각화에 사용하기 위해 목성의 크기를 조금 수정하였습니다. 기존 코드에서는 행성들 간의 크기 비율을 유지하는 동시에 궤도에 보이도록 크기가 너무 큰 상태였고, 이로 인해 위성의 궤도를 시각화할 때 행성이 위성의 궤도를 가리는 현상이 나타났습니다. 이 문제를 해결하기 위해 목성의 반지름만 5분의 1로 줄였고, 위성들의 궤도 반지름을 그들 간의 비율은 유지한 채 값을 늘려 시각화하였습니다.
 위성 궤도를 추가한 시각화의 결과는 아래 사진과 같습니다.
 
+![태양계_4차시도](Images/trial4/Trial4_total_view.png)
+
+*Fig.9 Total view of Solar system, inclination applied, with planets and orbits of moon and Galilean moons. <2004-12-14>*
+
+![태양계_4차시도](Images/trial4/Trial4_total_view_zoomed.png)
+
+*Fig.10 Total view of Solar system, inclination applied, with planets and orbits of moon and Galilean moons, zoomed. <2004-12-14>*
+
+![태양계_4차시도](Images/trial4/Trial4_top_view_zoomed.png)
+
+*Fig.11 Top view of Solar system, inclination applied, with planets and orbits of moon and Galilean moons, zoomed. <2004-12-14>*
+
