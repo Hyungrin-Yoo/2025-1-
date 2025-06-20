@@ -60,11 +60,11 @@ import plotly.graph_objects as go
 
 *Fig.1 Total view of Solar system*
 
-
+![태양계_1차시도](Images/trial1/Trial1_topview.png)
 
 *Fig.2 Top view of Solar system*
 
-
+![태양계_1차시도](Images/trial1/Trial1_sideview.png)
 
 *Fig.3 Side view of Solar system*
 
@@ -73,3 +73,5 @@ Fig.3을 보면 알 수 있듯 행성들의 궤도 기울기를 반영하지 않
 ### 2. 태양 크기 조절 및 행성 궤도 기울기 반영
 
 1차 시도에서 태양의 실제 크기를 반영하였을 때 나타난 3D 이미지에서 태양이 보이지 않는 것을 확인하였고, 이로 인해 태양의 시각화를 위해서 현실과 다르더라도 어느 정도 크기를 부여하기로 하였습니다. 또한 실제 태양계의 형태에 가깝도록 행성의 공전궤도에 기울기를 반영하는 코드를 추가하였고, 그 결과는 아래와 같습니다.
+
+
