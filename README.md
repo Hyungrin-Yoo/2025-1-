@@ -156,3 +156,5 @@ from datetime import datetime
 위의 과정을 통해 태양계 행성의 궤도의 시각화, 태양 크기 조정 및 행성 궤도 기울기 시각화, 행성의 특정 날짜에서의 위치 시각화, 주요 위성 궤도 시각화까지 4개 단계를 거쳐 태양계 시각화 프로젝트를 마무리하였습니다. 작성한 코드는 아래 google colab 링크에서 확인해보실 수 있습니다.
 
 https://colab.research.google.com/drive/16NFJh9I5U8AIFisVN7eIH_tXw-MkX-tL#scrollTo=SmWLc32NFxz9
+
+
