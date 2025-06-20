@@ -108,4 +108,7 @@ from datetime import datetime
 
 ![태양계_3차시도](Images/trial3/Trial3_total_view_zoomed.png)
 
-*Fig.7 Total view of Solar system, inclination applied, with planets, zoomed. <2004-12-14>*
+*Fig.8 Total view of Solar system, inclination applied, with planets, zoomed. <2004-12-14>*
+
+### 4. 위성 추가하기 🌕
+
