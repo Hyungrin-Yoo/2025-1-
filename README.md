@@ -157,5 +157,3 @@ from datetime import datetime
 
 #### Google Colab Link
 https://colab.research.google.com/drive/16NFJh9I5U8AIFisVN7eIH_tXw-MkX-tL#scrollTo=SmWLc32NFxz9
-
-
