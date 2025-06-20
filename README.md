@@ -57,12 +57,15 @@ import plotly.graph_objects as go
 첫 시도로 태양계를 구성하는 요소, 즉 태양의 반지름(~0.00465AU)과 행성들의 궤도 반지름만을 이용하여 태양계의 모습을 구현하여 보았습니다. 그렇게 나타난 결과는 아래와 같습니다.
 
 ![태양계_1차시도](Images/trial1/Trial1_totalview.png)
+
 *Fig 1. Total view of Solar system*
 
 ![태양계_1차시도](Images/trial1/Trial1_topview.png)
+
 *Fig 2. Top view of Solar system*
 
 ![태양계_1차시도](Images/trial1/Trial1_sideview.png)
+
 *Fig 3. Side view of Solar system*
 
 
