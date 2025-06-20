@@ -74,4 +74,14 @@ Fig.3을 보면 알 수 있듯 행성들의 궤도 기울기를 반영하지 않
 
 1차 시도에서 태양의 실제 크기를 반영하였을 때 나타난 3D 이미지에서 태양이 보이지 않는 것을 확인하였고, 이로 인해 태양의 시각화를 위해서 현실과 다르더라도 어느 정도 크기를 부여하기로 하였습니다. 또한 실제 태양계의 형태에 가깝도록 행성의 공전궤도에 기울기를 반영하는 코드를 추가하였고, 그 결과는 아래와 같습니다.
 
+![태양계_2차시도](Images/trial2/Trial1_total_view.png)
 
+*Fig.4 Total view of Solar system, inclination applied*
+
+![태양계_2차시도](Images/trial2/Trial1_total_view_zoomed.png)
+
+*Fig.5 Total view of Solar system, inclination applied, Zoomed*
+
+![태양계_2차시도](Images/trial2/Trial1_side_view_zoomed.png)
+
+*Fig.6 Side view of Solar system, inclination applied*
