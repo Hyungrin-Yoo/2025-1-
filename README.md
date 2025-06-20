@@ -69,7 +69,7 @@ import plotly.graph_objects as go
 
 *Fig.3 Side view of Solar system*
 
-Fig.3을 보면 알 수 있듯 행성들의 궤도 기울기를 반영하지 않아 모든 궤도가 겹쳐보이는 것을 확인할 수 있습니다.
+Fig.3을 보면 행성들의 궤도 기울기를 반영하지 않아 모든 궤도가 겹쳐보이는 것을 확인할 수 있습니다.
 
 ### 2. 태양 크기 조절 및 행성 궤도 기울기 반영
 
